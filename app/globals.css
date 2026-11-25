@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #07111f;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  min-height: 100vh;
+}
+
+h1, h2, p {
+  margin-top: 0;
+}
+
+main {
+  max-width: 100%;
+}
